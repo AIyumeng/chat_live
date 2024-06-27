@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### step 4 RUN
 ```python
-python bilibi.py
+python bilibili.py
 ```
 
 ## 写在最后
