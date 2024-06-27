@@ -1,0 +1,18 @@
+{
+    "api_keys": [
+      "****************************"
+    ],
+    "api_proxy": {
+      "url": "https://*************",
+      "on": true
+    },
+    "proxy": {
+      "url": "http://***************",
+      "on": false
+    },
+    
+    "ACCESS_KEY_ID": "*************",
+    "ACCESS_KEY_SECRET": "*************************",
+    "APP_ID": 123456789,
+    "ROOM_OWNER_AUTH_CODE":"***********"
+  }

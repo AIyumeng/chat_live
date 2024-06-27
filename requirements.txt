@@ -1,0 +1,10 @@
+aiohttp
+Brotli
+loguru
+pure_protobuf
+PyQt5
+PyQt5_sip
+Requests
+typing_extensions
+websockets
+openai
